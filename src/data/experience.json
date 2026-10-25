@@ -1,0 +1,14 @@
+[
+  {
+    "id": "teacher",
+    "role": "Computer Science Teacher",
+    "organization": "Middle school (cycle moyen), Algeria",
+    "period": "2025–2026",
+    "note": "One-year position",
+    "responsibilities": [
+      "Prepared and delivered computer science lessons adapted to students' level.",
+      "Explained core concepts and supported students in their learning.",
+      "Organised classroom activities and adapted explanations to learners' needs."
+    ]
+  }
+]

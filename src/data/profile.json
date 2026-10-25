@@ -1,0 +1,36 @@
+{
+  "name": "Aya Boumezbeur",
+  "roleLine": "AI Security & Privacy Researcher",
+  "titleLine": "AI Security & Privacy Researcher | Cybersecurity Engineer | Machine Learning and NLP",
+  "education": "M.Sc. Cybersecurity · Université Ferhat Abbas Sétif 1 · 2025",
+  "rotatingRoles": [
+    "LLM security and privacy",
+    "Privacy-preserving machine learning",
+    "Cybersecurity and vulnerability assessment",
+    "NLP for low-resource Arabic dialects"
+  ],
+  "valueProposition": "I research how to make language models safe to use with sensitive data. My work on privacy-preserving clinical AI sits on top of a cybersecurity, networks and systems background.",
+  "availability": "Open to research collaborations, internships and relevant roles, in Algeria or remote.",
+  "location": "Algeria",
+  "email": "aya217486@gmail.com",
+  "resumeFile": "",
+  "languages": [
+    {
+      "name": "Arabic",
+      "level": "Native"
+    },
+    {
+      "name": "French",
+      "level": "Professional"
+    },
+    {
+      "name": "English",
+      "level": "Professional"
+    }
+  ],
+  "bio": [
+    "I hold a Master's degree in Cybersecurity (2025) and a Bachelor's degree in Computer Science (2023), both from Université Ferhat Abbas Sétif 1 in Algeria. My research focuses on the security and privacy of large language models, especially in critical domains such as healthcare.",
+    "My Master's thesis project, SecureMed-LLM, explores a layered privacy-preserving framework for clinical report generation. I am the second author of a Springer conference paper reviewing privacy safeguards for LLMs, and I am interested in NLP for low-resource Arabic dialects.",
+    "Before research, I spent a year teaching computer science at middle-school level (2025–2026), which shaped how I explain technical ideas. My hands-on base is Linux, networking and vulnerability assessment."
+  ]
+}

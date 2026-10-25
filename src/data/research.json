@@ -1,0 +1,43 @@
+[
+  {
+    "id": "llm-security",
+    "label": "AI & LLM security and privacy",
+    "detail": "How language models leak, memorise or expose sensitive information, and which safeguards reduce that risk in critical applications.",
+    "evidence": [
+      "Springer paper (2026)",
+      "SecureMed-LLM"
+    ]
+  },
+  {
+    "id": "ppml",
+    "label": "Privacy-preserving machine learning",
+    "detail": "Combining anonymisation, differentially private training and encrypted delivery so that sensitive data stays protected end to end.",
+    "evidence": [
+      "SecureMed-LLM"
+    ]
+  },
+  {
+    "id": "cyber",
+    "label": "Cybersecurity and vulnerability assessment",
+    "detail": "Reconnaissance, vulnerability scanning and risk analysis on Linux and networked systems.",
+    "evidence": [
+      "Master's in Cybersecurity"
+    ]
+  },
+  {
+    "id": "systems",
+    "label": "Network and systems security",
+    "detail": "TCP/IP, DNS and DHCP behaviour, network diagnostics and securing Linux-based systems.",
+    "evidence": [
+      "Master's in Cybersecurity"
+    ]
+  },
+  {
+    "id": "arabic-nlp",
+    "label": "Arabic NLP for low-resource dialects",
+    "detail": "Sentiment analysis for Algerian Arabic, where data is scarce and dialect varies widely.",
+    "evidence": [
+      "Research interest"
+    ]
+  }
+]

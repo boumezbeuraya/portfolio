@@ -1,0 +1,16 @@
+[
+  {
+    "id": "master",
+    "degree": "Master's in Cybersecurity",
+    "institution": "Université Ferhat Abbas Sétif 1, Algeria",
+    "period": "2025",
+    "description": "Thesis project: SecureMed-LLM, a privacy-preserving framework for safeguarding clinical language models."
+  },
+  {
+    "id": "bachelor",
+    "degree": "Bachelor's in Computer Science",
+    "institution": "Université Ferhat Abbas Sétif 1, Algeria",
+    "period": "2023",
+    "description": "Final-year project: a cross-platform mobile application built with Flutter."
+  }
+]

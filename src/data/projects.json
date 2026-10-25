@@ -1,0 +1,26 @@
+[
+  {
+    "id": "securemed-llm",
+    "title": "SecureMed-LLM",
+    "subtitle": "A privacy-preserving framework for safeguarding clinical language models",
+    "status": "Master's thesis project",
+    "statusKind": "thesis",
+    "problem": "Language models that generate clinical text from medical images can expose protected health information (PHI) at several points: in the training data, in the generated report and in transit. Single safeguards each cover only one of these points.",
+    "role": "Author of the thesis project and of its public repository.",
+    "approach": "A layered pipeline for chest X-ray report generation that combines anonymisation, differentially private training, adversarial-robustness evaluation, LLM-based output validation and encrypted report delivery. It was evaluated on the Open-I dataset.",
+    "limitations": "This is a research prototype. It is not a deployed clinical system and has not been clinically validated. Results come from one public dataset (Open-I) and should not be read as security guarantees.",
+    "technologies": [
+      "Python",
+      "Presidio",
+      "Opacus",
+      "BioMedCLIP",
+      "T5",
+      "SBERT",
+      "ECIES / Curve25519"
+    ],
+    "category": "AI Security",
+    "repo": "https://github.com/boumezbeuraya/SecureMed-LLM-A-Privacy-Preserving1-Framework-for-Safeguarding-Clinical2-Language-Models",
+    "repoNote": "",
+    "featured": true
+  }
+]

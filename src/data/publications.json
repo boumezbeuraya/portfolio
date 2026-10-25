@@ -1,0 +1,45 @@
+[
+  {
+    "id": "springer-privacy-by-design",
+    "title": "Privacy by Design: A Review of Safeguarding Strategies for LLMs in Critical AI Applications",
+    "authors": [
+      "Fouzi Harrag",
+      "Aya Boumezbeur",
+      "Maria Dib",
+      "Mohamed Deriche",
+      "Yahya Mohamed Elhadj"
+    ],
+    "myAuthorIndex": 1,
+    "type": "Conference paper",
+    "venue": "Artificial Intelligence and its Practical Applications",
+    "series": "Lecture Notes in Networks and Systems",
+    "volume": "1917",
+    "publisher": "Springer, Cham",
+    "pages": "226–237",
+    "date": "29 May 2026",
+    "year": "2026",
+    "doi": "10.1007/978-3-032-22299-2_15",
+    "doiUrl": "https://doi.org/10.1007/978-3-032-22299-2_15",
+    "publisherUrl": "https://link.springer.com/chapter/10.1007/978-3-032-22299-2_15",
+    "summary": "A review of strategies for protecting privacy and securing large language models in critical AI applications.",
+    "contribution": [
+      "Literature review",
+      "Scientific writing",
+      "Development of the taxonomy and classification",
+      "Contribution to the architectural design",
+      "Contribution to the research idea"
+    ],
+    "topics": [
+      "Privacy by design",
+      "LLM security",
+      "Critical AI applications"
+    ],
+    "citeAuthors": [
+      "Harrag, Fouzi",
+      "Boumezbeur, Aya",
+      "Dib, Maria",
+      "Deriche, Mohamed",
+      "Elhadj, Yahya Mohamed"
+    ]
+  }
+]

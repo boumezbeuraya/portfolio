@@ -1,0 +1,32 @@
+[
+  {
+    "category": "AI security and privacy",
+    "practical": ["LLM security", "AI security and privacy experiments", "Privacy engineering", "Data protection"],
+    "academic": [],
+    "learning": []
+  },
+  {
+    "category": "Machine learning and NLP",
+    "practical": ["Machine learning", "Natural language processing", "Model training and evaluation"],
+    "academic": [],
+    "learning": []
+  },
+  {
+    "category": "Cybersecurity and vulnerability assessment",
+    "practical": ["Vulnerability assessment", "Risk analysis", "Nmap", "SOC and SIEM concepts"],
+    "academic": ["Incident response principles"],
+    "learning": []
+  },
+  {
+    "category": "Networks and systems",
+    "practical": ["Linux and Kali Linux", "TCP/IP", "DNS", "DHCP", "Network diagnostics"],
+    "academic": ["Wireshark"],
+    "learning": []
+  },
+  {
+    "category": "Programming and tools",
+    "practical": ["Python"],
+    "academic": ["C/C++", "Java", "SQL", "Flutter"],
+    "learning": ["Git and GitHub"]
+  }
+]
